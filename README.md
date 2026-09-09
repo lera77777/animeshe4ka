@@ -2,6 +2,8 @@
 
 > ***Информационная система для автоматизации работы интернет-магазина аниме-брелков***
 
+Выполнили: Шурухина и Храброва
+
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ab10297d-06d0-4209-92f1-faad8eb2001d" />
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9279084f-b171-4bc6-8a02-0f4bd803d901" />
 
